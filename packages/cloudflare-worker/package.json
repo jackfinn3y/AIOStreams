@@ -2,7 +2,7 @@
   "name": "@aiostreams/cloudflare-worker",
   "version": "1.21.1",
   "scripts": {
-    "deploy": "wrangler deploy --latest",
+    "deploy": "wrangler deploy",
     "dev": "wrangler dev",
     "start": "wrangler dev",
     "test": "vitest",
